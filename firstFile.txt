@@ -1,2 +1,0 @@
-Hello, I have created first file!
-Now lets see if i can commit anything from here.
